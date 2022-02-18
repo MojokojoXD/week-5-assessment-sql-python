@@ -23,3 +23,5 @@ def melons_over_10(log_file):
 
 
 melons_over_10(log_file)
+
+log_file.close();
